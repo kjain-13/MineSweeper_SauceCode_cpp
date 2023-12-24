@@ -1,7 +1,7 @@
 #include<iostream>
 #include<vector>
-#define N 6
-#define bomb 5
+#define N 10
+#define bomb 10
 #define space '_'
 #define space_view '*'
 #define bmb_sym '^'
